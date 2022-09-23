@@ -12,8 +12,9 @@ Structural techniques have improved over time and we are curious as to how the r
 1. Download pdb files of interest and place into one folder
 2. Input path to pdbfiles onto dirpath variable and other places the path is called
 3. Execute code
-4. This will output histograms of crystal structures within these date ranges:
+4. This will output histograms of structures within these date ranges:
  - 1976-89;1990-2009;2010-2014;2015-2022 (X-ray Crystallography)
  - 1990-2009; 2010-2014; 2015-2022 (electron microscopy)
  - this will also save each histogram as a png file
 
+FINAL WORKING NOTEBOOK IS: "final.ipynb"
